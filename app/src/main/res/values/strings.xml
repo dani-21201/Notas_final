@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="titulo1">Calculadora De Notas U. Mariana</string>
+    <string name="app_moviles">Aplicaciones Moviles</string>
+    <string name="seg_inf">Seguridad Informatica</string>
+    <string name="proy_agiles">Proyectos Agiles</string>
+    <string name="calcu_defi">Calcular Definitiva</string>
+    <string name="Acerca">Acerca De</string>
+    <string name="recu">Recuperar</string>
+    <string name="ing_sof">Ingenieria De Software</string>
+    <string name="ini">Este Programa Fue Creado Por Daniela Gonzalez</string>
+    <string name="acti">Los profesores y sus numeros de celular son :</string>
+    <string name="numero">"El numero del profesor "</string>
+    <string name="mate">Matematicas</string>
+    <string name="tes">Tesis</string>
+    <string name="is">es</string>
+    <string name="rellenar">necesitas rellenar los campos</string>
+    <string name="prof">Ver lista de profesores</string>
+    <string name="cant_cred">Ver la cantidad de Creditos por materia</string>
+    <string name="cantticre">La cantidad de creditos de la materia de :</string>
+    <string name="dif">la definitiva es</string>
+    <string name="vol">Volver</string>
+    <string name="digno1">Digite la nota del corte 1</string>
+    <string name="dgino2">Digite la nota del corte 2</string>
+    <string name="digno3">Digite la nota del corte 3</string>
+    <string name="definitive">Definitiva</string>
+    <string name="cero">Los numeros deben ser entre 0 y 5</string>
+    <string name="error">Error los numeros no son correctos</string>
+</resources>

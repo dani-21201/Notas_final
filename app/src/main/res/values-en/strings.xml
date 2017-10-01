@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="titulo1">U. Mariana Notes Calculator</string>
+    <string name="app_moviles">Mobile apps</string>
+    <string name="seg_inf">Informatic security</string>
+    <string name="proy_agiles">Agile Projects</string>
+    <string name="calcu_defi">Calculate Definitive</string>
+    <string name="Acerca">About</string>
+    <string name="recu">Recover</string>
+    <string name="ing_sof">Matematics</string>
+    <string name="ini">This Program Was Created By Daniela Gonzalez</string>
+    <string name="acti">This Program Was Created By Daniela Gonzalez</string>
+    <string name="numero">" the teacher's number"</string>
+    <string name="mate">Matematics</string>
+    <string name="tes">" thesis"</string>
+    <string name="is">is</string>
+    <string name="rellenar">you need to fill in the fields</string>
+    <string name="prof">See list of theachers</string>
+    <string name="cant_cred">See the amount of Credits by subject</string>
+    <string name="cantticre">" The amount of credits of the subject of:"</string>
+    <string name="dif">" the definitive  is"</string>
+    <string name="vol">Back</string>
+    <string name="digno1">" Enter the note for cut 1"</string>
+    <string name="dgino2">" Enter the note for cut 2"</string>
+    <string name="digno3">" Enter the note for cut 3"</string>
+    <string name="definitive">Definitive</string>
+    <string name="cero">the number must be 0 or 5</string>
+    <string name="error">waring the number is not correct</string>
+</resources>
