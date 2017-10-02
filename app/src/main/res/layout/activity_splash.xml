@@ -10,16 +10,16 @@
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="405dp"
-        android:layout_height="128dp"
+        android:layout_width="352dp"
+        android:layout_height="103dp"
         android:fontFamily="cursive"
         android:text="@string/ini"
         android:textAlignment="center"
         android:textColor="@android:color/background_light"
         android:textSize="36sp"
         android:textStyle="bold"
-        tools:layout_editor_absoluteX="-10dp"
-        tools:layout_editor_absoluteY="352dp" />
+        tools:layout_editor_absoluteX="21dp"
+        tools:layout_editor_absoluteY="31dp" />
 
     <Space
         android:layout_width="wrap_content"
@@ -30,8 +30,8 @@
         android:layout_width="343dp"
         android:layout_height="328dp"
         app:srcCompat="@mipmap/calcu"
-        tools:layout_editor_absoluteY="16dp"
-        tools:layout_editor_absoluteX="25dp" />
+        tools:layout_editor_absoluteY="158dp"
+        tools:layout_editor_absoluteX="21dp" />
 
 </android.support.constraint.ConstraintLayout>
 
