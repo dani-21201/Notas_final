@@ -56,7 +56,8 @@ public class MainActivity extends AppCompatActivity {
         d4.setText(prefe.getString("resu4", d4.getText().toString()));
 
 
-
+//comentario
+        //prueba
 
 
             t1.addTextChangedListener(new TextWatcher() {
